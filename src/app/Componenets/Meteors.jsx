@@ -14,7 +14,7 @@ export default function Meteors({number}) {
           )}
           style={{
             top: 0, 
-            left: Math.floor(Math.random() * 1000) + "px",
+            left: Math.floor(Math.random() * 1400) + "px",
             animationDelay: Math.random() * (1 - 0.2) + 0.2 + "s",
             animationDuration: Math.floor(Math.random() * (25 - 2) + 2) + "s",
           }}

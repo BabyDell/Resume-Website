@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container min-w-full font-serif">
       <div className="flex flex-col min-h-screen items-center justify-center bg-gray-900">
-      <Meteors number={10} />
+      <Meteors number={15} />
         <img
           src="/Picture.png"
           alt="picture"
