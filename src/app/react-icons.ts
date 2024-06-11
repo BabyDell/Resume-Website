@@ -5,7 +5,6 @@ import { MdEmail } from "react-icons/md";
 
 
 export default {
-    
     FaLinkedin,
     FaGithubSquare,
     FaDiscord,
