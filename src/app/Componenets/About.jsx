@@ -4,7 +4,7 @@ export default function About() {
       <span className="flex justify-center text-5xl font-serif pt-8 mb-5">
         About
       </span>
-      <div className="flex grid mx-72 text-xl text-center font-sans text-gray-200 font-serif">
+      <div className="flex grid mx-24 lg:mx-48 xl:mx-64 text-xl text-center font-sans text-gray-200 font-serif">
         <div className="">
           Hello, my name is Andy Felix. I am a Computer Science student at
           College of the Desert from Palm Desert, California. I love to program
