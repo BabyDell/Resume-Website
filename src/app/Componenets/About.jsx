@@ -11,7 +11,7 @@ export default function About() {
           anything, but specialize in creating websites. My coding journey begun
           during my senior year of high school for my AP Computer Science Class.
           From then, I decided to major in Computer Science where I learned C++.
-          It felt like I wasn't learning enough so I decided to start learning
+          It felt like I wasn&apos;t learning enough so I decided to start learning
           on my own. Full Stack Devlopment intruiged me so I decided to start on
           focuing on the front-end first. I started by learning JavaScript followed by html and
           css. Then started creating websites using frameworks such as React,
@@ -20,7 +20,7 @@ export default function About() {
           working on projects contiuining enchancing my skills.
         </div>
         <div className="mt-8">
-          While I'm not creating websites, I love to go to the gym, play basketball, or
+          While I&apos;m not creating websites, I love to go to the gym, play basketball, or
           anything that involves the outside. 
         </div>
       </div>
