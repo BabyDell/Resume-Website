@@ -3,6 +3,14 @@ import React from "react";
 
 export default function Meteors({number}) {
   const meteors = new Array(number || 20).fill(true);
+
+  if (typeof window !== "undefined") {
+  const width = window.screen.width;
+  console.log(width);
+  }
+  console.log(1400);
+
+
   return (
     <>
       {meteors.map((el, idx) => (

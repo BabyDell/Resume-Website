@@ -5,12 +5,12 @@ export default function Projects() {
         Projects
       </span>
       <div className="w-full flex justify-center items-center">
-        <div className=" flex grid grid-cols-2 gap-20 w-full mr-5 ml-5 lg:w-3/4">
-          <img src="/NotionProject.png" className="" />
-          <div className="w-auto  text-2xl font-serif">
+        <div className=" flex grid sm:grid-cols-2 gap-20 w-full mx-5 lg:w-3/4">
+          <img src="/NotionProject.png" className="w-full" />
+          <div className="w-auto text-center text-2xl font-serif">
             An application built using React, MongoDb, TypeScript, and Tailwind
-            with another programmer. It is a doumentation page where you can
-            keep files such as to do list, calenders, and files. In Progress.
+            with another programmer. It is a documentation page where you can
+            keep files such as to do list, calendars, and files. In Progress.
           </div>
           <img src="Fashionista-Website.png" />
           <div className="w-auto  text-2xl font-serif">
