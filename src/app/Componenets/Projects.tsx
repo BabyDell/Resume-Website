@@ -13,7 +13,7 @@ export default function Projects() {
             keep files such as to do list, calendars, and files. In Progress.
           </div>
           <img src="Fashionista-Website.png" />
-          <div className="w-auto  text-2xl font-serif">
+          <div className="w-auto text-center text-2xl font-serif">
             A Website focusing on fashion posts. People can find inpsirations
             for new outfits, accessories, or shoes. Built using NextJS,
             Tailwind, and React. Still in progress.
@@ -23,3 +23,4 @@ export default function Projects() {
     </div>
   );
 }
+  
