@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      textShadow: {
+        'glow': '0 0 2px #8d8d8d, 0 0 4px #8d8d8d, 0 0 6px #8d8d8d, 0 0 8px #8d8d8d',
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
@@ -19,6 +22,7 @@ module.exports = {
       },
       animation: {
         "meteor-effect": "meteor 5s linear infinite",
+        "glow-scale": "glow 0.3s ease-in-out",
       },
       keyframes: {
         meteor: {
@@ -29,8 +33,13 @@ module.exports = {
             opacity: 0,
           },
         },
+        glow: {
+          "0%": { transform: "scale(1)", boxShadow: "0 0 2px #8d8d8d, 0 0 4px #8d8d8d, 0 0 6px #8d8d8d, 0 0 8px #8d8d8d" },
+          "100%": { transform: "scale(1.1)", boxShadow: "0 0 6px #8d8d8d, 0 0 8px #8d8d8d, 0 0 10px #8d8d8d, 0 0 12px #8d8d8d" },
+        },
       },
     },
   },
-  plugins: [],
+
+  plugins: [require("tailwindcss-textshadow")],
 };
