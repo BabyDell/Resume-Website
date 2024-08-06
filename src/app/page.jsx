@@ -2,6 +2,7 @@ import Home from "./Componenets/Home";
 import NavBar from "./Componenets/NavBar";
 import About from "./Componenets/About"
 import Projects from "./Componenets/Projects";
+import Skills from "./Componenets/Skills";
 
 
 
@@ -12,6 +13,7 @@ export default function App() {
       <Home />
       <About />
       <Projects />
+      <Skills />
     </>
   );
 }
