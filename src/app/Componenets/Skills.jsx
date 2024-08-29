@@ -1,7 +1,7 @@
 export default function Skills() {
   return (
-    <div>
-      
+    <div className="w-full h-auto">
+      <div></div>
     </div>
   );
 }

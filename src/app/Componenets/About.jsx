@@ -28,7 +28,7 @@ export default function About() {
               use photoshopping tools to assist in my UI/UX. I have a strong
               understanding of software and hardware, and keep up to new
               developments from frameworks to AI.
-            </div>
+            </div>  
             <div className="mt-8">
               While I&apos;m not creating websites I love fashion, basketball,
               and spending time with family.
