@@ -17,18 +17,17 @@ export default function About() {
           <div className="text-3xl mb-10 underline">Biography</div>
           <div clasName=" text-xl text-center text-gray-200 font-serif">
             <div className="">
-              Second year college student at College of the Desert majoring in
-              Computer Science. Began coding during my senior year of high
-              school creating programs using Java, and learned C++ in freshman
-              year of college. It was during my freshman year of college though
-              where I found my true passion in programming websites. For 8
-              months I&apos;ve been learning and creating websites and seeking an
-              internship to further my learning. My skills range from Tailwind,
-              NextJs, and JavaScript. I value clean and readable code. I also
-              use photoshopping tools to assist in my UI/UX. I have a strong
-              understanding of software and hardware, and keep up to new
-              developments from frameworks to AI.
-            </div>  
+              Hello, I&apos;m a self taught front-end developer who is in there
+              sophomore year attending college of the desert, studying computer
+              science. I have been coding since I was introduced to it during my
+              senior year of high school, but really found my passion in web
+              development during my fall semester of my freshman year. I have
+              been learning and creating websites for about a year, and use
+              frameworks such as NextJs, Tailwind, and Typescript. I also have
+              learned photoshop to assist in creating user interfaces. I have a
+              strong understanding in hardware and software, and keep up to date
+              with new developments from frameworks to the use of AI.
+            </div>
             <div className="mt-8">
               While I&apos;m not creating websites I love fashion, basketball,
               and spending time with family.

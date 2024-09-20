@@ -17,7 +17,7 @@ export default function Home() {
         />
         <div className="text-xl mt-7 text-shadow-glow">Andy Felix</div>
         <div className="text-xl mt-3 text-shadow-glow">
-          Student & Full Stack Devoloper
+          Student & Front End Devoloper
         </div>
         {/* Social Links */}
         <div className="mt-2">
