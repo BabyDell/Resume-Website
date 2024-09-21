@@ -26,7 +26,7 @@ export default function Projects() {
                 Real Estate Website
               </div>
               <p className="text-gray-400 text-base">
-                Website for a Real Estate Agent that showcases their agent's
+                Website for a Real Estate Agent that showcases their agent&apos;s
                 proffesional profile, provides a curated list of proprerty
                 listings, and offers an easy way for potential clients to get in
                 touch. Uses animations to make the navbar more interactive.
