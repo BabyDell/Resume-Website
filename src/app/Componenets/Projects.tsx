@@ -26,10 +26,10 @@ export default function Projects() {
                 Real Estate Website
               </div>
               <p className="text-gray-400 text-base">
-                Website for a Real Estate Agent that showcases their agent&apos;s
-                proffesional profile, provides a curated list of proprerty
-                listings, and offers an easy way for potential clients to get in
-                touch. Uses animations to make the navbar more interactive.
+                Website for a Real Estate Agent that showcases their
+                agent&apos;s professional profile, provides a curated list of
+                property listings, and offers an easy way for potential clients
+                to get in touch. Uses animations to make the navbar interactive.
                 Built using typescript, NextJs, and Tailwind.
               </p>
             </div>
@@ -51,18 +51,19 @@ export default function Projects() {
               className=""
               width={500}
               height={500}
-              src="/Fashionista-Website.png"
-              alt="Fashionista"
+              src="/CompanyWebsite.png"
+              alt="Fictonal Company Website"
             />
             <div className="px-6 py-4">
               <div className="font-bold text-neutral-200 text-xl mb-2">
-                Fashionista
+                Company Website
               </div>
               <p className="text-gray-400 text-base">
-                A Landing Page for a fictional clothing brand called
-                Fashionista. Incooperates animations when the user first loads
-                the page to make a more appealing expiernce. Implented user
-                authentication through Convex and Clerk.
+                A Fictional Company Website that shows brand information, menu,
+                location finder, and a source of customer engagement.
+                Interactive navbar, using react-spring for animations. Custom
+                logo designed by myself using gimp. Use of clean code using map
+                to iterate over a menu items and locations. Built using NextJS, Tailwind, and Typescript
               </p>
             </div>
             <div className="px-6 pt-4 pb-2">
